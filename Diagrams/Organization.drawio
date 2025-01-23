@@ -4,37 +4,37 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="8" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="2" target="3" edge="1">
+                <mxCell id="8" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;" parent="1" source="2" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="Introduction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="2" value="Introduction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="-850" y="50" width="220" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="3" target="4" edge="1">
+                <mxCell id="9" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;" parent="1" source="3" target="4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Literature Review" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="3" value="Literature Review" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="-560" y="50" width="240" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="4" target="5" edge="1">
+                <mxCell id="10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;" parent="1" source="4" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Methodology" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="4" value="Methodology" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="-260" y="50" width="250" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="5" target="6" edge="1">
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;" parent="1" source="5" target="6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Results" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="5" value="Results" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="-260" y="230" width="250" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" style="edgeStyle=none;html=1;fontSize=8;" parent="1" source="6" target="15" edge="1">
+                <mxCell id="16" style="edgeStyle=none;html=1;fontSize=20;" parent="1" source="6" target="15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Epilogue" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="6" value="Epilogue" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="-562.5" y="230" width="245" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="References" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="15" value="References" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="-850" y="230" width="220" height="150" as="geometry"/>
                 </mxCell>
             </root>

@@ -1,36 +1,36 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="5mLPmDPQ1kkUMSueSlFQ">
-        <mxGraphModel dx="1627" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="976" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-1" target="t4f0v5-P-y_MdGWt8-OI-2" edge="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=22;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-1" target="t4f0v5-P-y_MdGWt8-OI-2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Hello Pet&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Hello Pet&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry x="280" y="20" width="200" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-2" target="t4f0v5-P-y_MdGWt8-OI-3" edge="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=22;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-2" target="t4f0v5-P-y_MdGWt8-OI-3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-2" target="t4f0v5-P-y_MdGWt8-OI-8" edge="1">
+                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=22;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-2" target="t4f0v5-P-y_MdGWt8-OI-8" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="145" y="205"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=8;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-2" target="t4f0v5-P-y_MdGWt8-OI-7" edge="1">
+                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=22;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-2" target="t4f0v5-P-y_MdGWt8-OI-7" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="705" y="210"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Login/Register&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Login/Register&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry x="280" y="170" width="200" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-3" target="t4f0v5-P-y_MdGWt8-OI-5" edge="1">
+                <mxCell id="8" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-3" target="t4f0v5-P-y_MdGWt8-OI-5" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="380" y="550"/>
@@ -38,7 +38,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-3" target="t4f0v5-P-y_MdGWt8-OI-24" edge="1">
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-3" target="t4f0v5-P-y_MdGWt8-OI-24" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="380" y="550"/>
@@ -46,7 +46,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="10" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-3" target="t4f0v5-P-y_MdGWt8-OI-4" edge="1">
+                <mxCell id="10" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-3" target="t4f0v5-P-y_MdGWt8-OI-4" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="380" y="550"/>
@@ -54,7 +54,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="11" style="edgeStyle=none;html=1;entryX=0.572;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-3" target="t4f0v5-P-y_MdGWt8-OI-9" edge="1">
+                <mxCell id="11" style="edgeStyle=none;html=1;entryX=0.572;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;" parent="1" source="t4f0v5-P-y_MdGWt8-OI-3" target="t4f0v5-P-y_MdGWt8-OI-9" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="380" y="550"/>
@@ -62,25 +62,25 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Create User and Pet Profile&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Create User and Pet Profile&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry x="177.5" y="400" width="405" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Adoption System&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Adoption System&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry x="177.5" y="590" width="280" height="95" as="geometry"/>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-5" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Scheduling&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-5" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Scheduling&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry y="710" width="280" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Symptom Analysis&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-7" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&amp;nbsp;Symptom Analysis&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry x="560" y="250" width="290" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Breed detection&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-8" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Breed detection&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry y="260" width="290" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Shop products&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-9" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Shop products&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry x="560" y="570" width="290" height="95" as="geometry"/>
                 </mxCell>
-                <mxCell id="t4f0v5-P-y_MdGWt8-OI-24" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Community Pets&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=8;" parent="1" vertex="1">
+                <mxCell id="t4f0v5-P-y_MdGWt8-OI-24" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&amp;nbsp;Community Pets&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;" parent="1" vertex="1">
                     <mxGeometry x="360" y="710" width="310" height="90" as="geometry"/>
                 </mxCell>
             </root>

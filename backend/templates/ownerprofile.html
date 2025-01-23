@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Owner Profile</title>
+</head>
+<body>
+    <h1>Pet Owner Profile</h1>
+
+    <h2>{{ pet_owner.user.username }}</h2>
+    <p>Phone Number: {{ pet_owner.phone_number }}</p>
+    <p>Address: {{ pet_owner.address }}</p>
+
+    <h3>Pet Information:</h3>
+    <ul>
+        {% for pet in pet_owner.pet_info.all %}
+            <li>{{ pet.name }} - {{ pet.species }}</li>
+        {% endfor %}
+    </ul>
+
+</body>
+</html>
